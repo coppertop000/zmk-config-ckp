@@ -9,7 +9,6 @@
 / {
 	keymap {
 		compatible = "zmk,keymap";
-		sensor = <BINDING CW_KEY CCW_KEY>;
 
 		default_layer {
 				// ------------------------------------------------------------------------------------------------------------
